@@ -60,6 +60,5 @@ Sounds	Sound12	\..\Data\Sounds\ongoing_accepted.wav
 Sounds	Sound13	\..\Data\Sounds\ongoing_refused.wav
 Sounds	Sound14	\..\Data\Sounds\ongoing_manual.wav
 Sounds	Sound15	\..\Data\Sounds\new_atis.wav
-Sounds	Sound16	\..\Data\Sounds\handoff_refused.wav
 Sounds	Sound17	\..\Data\Sounds\pointout.wav
 Sounds	Sound18	\..\Data\Sounds\startup.wav
